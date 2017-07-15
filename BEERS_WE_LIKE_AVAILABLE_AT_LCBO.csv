@@ -1,48 +1,61 @@
 BREWERY,BEER,STYLE (MOSTLY RATEBEER),REGION,ABV,PACKAGE SIZE (LCBO),UNIT SIZE (ml; LCBO),CAD (LCBO),PACKAGE SIZE (Total Wine),UNIT SIZE (ml; Total Wine),"USD (Total Wine; Sacramento, CA)",UNTAPPD RATING,BEER ADVOCATE RATING (COMMUNITY),BEER ADVOCATE RATING (BROTHERS),RATEBEER RATING (Style),DATE PRICE COLLECTED (LCBO),DATE PRICE COLLECTED (Total Wine),USD:CAD (SEE DATE),SUPERORDINATE STYLE
-Anchor Brewing Co,Liberty Ale,APA,USA,5.9,6,355,15.25,6,355,9.49,3.496,88,89,95,4/8/2017,4/8/2017,1.34,PALE
-Boston Beer Company,Samuel Adams Summer Ale,Wheat Ale,USA,5.0,6,355,13.75,6,355,8.49,3.386,77,78,44,4/8/2017,4/8/2017,1.34,WHEAT
-Sierra Nevada Brewing Co,Pale Ale,APA,USA,5.6,6,355,15.75,6,355,8.49,3.66,91,91,97,4/8/2017,4/8/2017,1.34,PALE
-Jolly Pumpkin Artisan Ales,Bam Biere,Saison,USA,5.0,1,750,8.95,1,750,12.99,3.699,88,,94,4/8/2017,4/8/2017,1.34,FARMHOUSE
-Stone Brewing Co,Arrogant Bastard Ale,American Strong,USA,7.2,1,473,4.25,6,473,11.99,3.8,93,97,98,4/8/2017,4/8/2017,1.34,STRONG
-Ommegang,Game of Thrones Seven Kingdoms,Hoppy Belgian Wheat,USA,6.9,1,750,10.95,1,750,8.99,3.753,89,,100,4/8/2017,4/8/2017,1.34,WHEAT
-Oskar Blues Brewery,G'Knight Imperial Red IPA,IRIPA,USA,8.7,4,355,12.05,6,355,11.99,3.898,92,90,97,4/8/2017,4/8/2017,1.34,STRONG
-Smuttynose Brewing Co,Finest Kind IPA,IPA,USA,6.9,1,473,3.25,6,355,9.99,3.646,91,100,93,4/8/2017,4/8/2017,1.34,PALE
-Smuttynose Brewing Co,Baltic Porter,Baltic Porter,USA,9.0,4,355,13.05,4,355,9.99,3.911,94,,99,4/8/2017,4/8/2017,1.34,PORTER
-Oskar Blues Brewery,Ten Fidy,Imperial Stout,USA,10.5,1,355,4.85,1,355,3.79,4.117,96,100,98,4/8/2017,4/8/2017,1.34,STOUT
-Oskar Blues Brewery,Dale's Pale Ale,Pale Ale,USA,6.5,4,355,9.05,6,355,8.49,3.672,88,81,99,4/8/2017,4/8/2017,1.34,PALE
-Ommegang,Three Philosophers,Belgian Quad,USA,9.7,1,750,10.80,1,750,11.99,3.97,92,91,95,4/8/2017,4/8/2017,1.34,STRONG
-North Coast Brewing Co,Old Rasputin,RIS,USA,9.0,1,650,7.00,1,650,6.99,4.04,95,97,98,4/8/2017,4/8/2017,1.34,STOUT
-Stone Brewing Co,Russian Imperial Stout,RIS,USA,10.8,1,650,11.00,1,650,7.99,3.996,96,93,99,4/8/2017,4/8/2017,1.34,STOUT
-Cascade Brewing Company,Blackcap Raspberry '16,American Sour/Wild,USA,5.0,1,750,23.30,1,750,29.99,4.142,91,,95,4/8/2017,4/8/2017,1.34,SOUR
-Founders Brewing,KBS,Imperial Stout,USA,11.9,1,355,7.25,4,355,22.99,4.526,100,,100,4/8/2017,4/8/2017,1.34,STOUT
-Boston Beer Company,Samuel Adams Boston Lager,Vienna Lager,USA,4.8,6,355,14.45,6,355,7.99,3.43,86,90,95,4/8/2017,4/8/2017,1.34,AMBER
-Brooklyn Brewery,Brooklyn Lager,American Amber Lager,USA,5.0,1,473,3.10,1,473,1.99,3.506,86,80,99,4/8/2017,4/8/2017,1.34,AMBER
-Boston Beer Company,Fresh as Helles,Helles,USA,5.4,6,355,14.15,6,355,7.99,3.463,83,,93,4/8/2017,4/8/2017,1.34,LAGER
-Boston Beer Company,Octoberfest,Märzen,USA,5.5,6,355,14.40,6,355,7.99,3.61,83,80,92,4/8/2017,4/8/2017,1.34,AMBER
-Anchor Brewing Co,Steam,California Common,USA,6.0,6,355,15.25,6,355,7.99,3.506,87,94,93,4/8/2017,4/8/2017,1.34,AMBER
-Collective Arts Brewing,Rhyme and Reason,APA,CAN,5.9,1,473,3.25,1,473,3.99,3.78,88,,99,4/8/2017,4/8/2017,1.34,PALE
-Sawdust City Brewing Co,Lone Pine,IPA,CAN,6.2,1,473,3.25,,,,3.791,88,,95,4/8/2017,4/8/2017,1.34,PALE
-Sawdust City Brewing Co,Golden Beach,APA,CAN,4.5,1,473,3.10,,,,3.603,87,,84,4/8/2017,4/8/2017,1.34,PALE
-Great Lakes Brewing Co,Canuck,APA,CAN,5.2,1,473,2.65,,,,3.629,86,,92,4/8/2017,4/8/2017,1.34,PALE
-Beau's All Natural Brewing,B-Side Kissmeyer,Nordic Pale Ale,CAN,6.0,1,600,6.45,,,,3.77,87,,98,4/8/2017,4/8/2017,1.34,PALE
-Collective Arts Brewing,Ransack The Universe,IPA,CAN,6.8,1,473,3.35,4,473,11.99,3.916,92,,98,4/8/2017,4/8/2017,1.34,PALE
 Amsterdam Brewing Co,Maverick & Gose,Gose,CAN,5.9,1,650,7.95,,,,3.722,86,,74,4/8/2017,4/8/2017,1.34,SOUR
-Great Lakes Brewing Co,Karma Citra,IPA,CAN,6.6,1,473,3.25,,,,4.041,93,,100,4/8/2017,4/8/2017,1.34,PALE
-Beyond the Pale Brewing Co,Aromatherapy,IPA,CAN,6.5,1,473,4.50,,,,4.058,90,,100,4/8/2017,4/8/2017,1.34,PALE
-Collective Arts Brewing,Radio the Mothership,IIPA,CAN,8.5,1,473,4.95,,,,3.978,,,,4/8/2017,4/8/2017,1.34,PALE
+Anchor Brewing Co,Liberty Ale,APA,USA,5.9,6,355,15.25,6,355,9.49,3.496,88,89,95,4/8/2017,4/8/2017,1.34,PALE
+Anchor Brewing Co,Steam,California Common,USA,6,6,355,15.25,6,355,7.99,3.506,87,94,93,4/8/2017,4/8/2017,1.34,AMBER
 Anderson Craft Ales,IPA,IPA,CAN,6.5,6,355,13.95,,,,3.838,,,,4/8/2017,4/8/2017,1.34,PALE
-Rainhard Brewing,Kapow!,IPA,CAN,6.5,1,500,5.95,,,,3.904,86,,96,4/8/2017,4/8/2017,1.34,PALE
-Bench Brewing Co,Citra Grove,Hoppy Kettle Sour,CAN,6.0,1,750,10.95,,,,3.91,,,39,4/8/2017,4/8/2017,1.34,SOUR
-Great Lakes Brewing Co,Octopus Wants To Fight,IPA,CAN,6.2,1,473,3.25,,,,3.982,90,,98,4/8/2017,4/8/2017,1.34,PALE
-Great Lakes Brewing Co,Robohop,IIPA,CAN,8.5,1,473,5.00,,,,4.121,88,,97,4/8/2017,4/8/2017,1.34,PALE
-Steam Whistle,Pilsner,Pilsner,CAN,5.0,6,355,14.25,,,,3.452,78,,50,4/8/2017,4/8/2017,1.34,LAGER
-Boston Beer Company,Samuel Adams Utopia*,Barley Wine,USA,28,1,709,112.00,1,709,199.00,4.477,98,,100,4/8/2017,4/8/2017,1.34,STRONG
-Radical Road Brewing Co,Sling Shot,California Common,CAN,5.1,1,473,2.85,,,,3.432,,,47,4/8/2017,4/8/2017,1.34,AMBER
+Beau's All Natural Brewing,B-Side Kissmeyer,Nordic Pale Ale,CAN,6,1,600,6.45,,,,3.77,87,,98,4/8/2017,4/8/2017,1.34,PALE
+Bench Brewing Co,Citra Grove,Hoppy Kettle Sour,CAN,6,1,750,10.95,,,,3.91,,,39,4/8/2017,4/8/2017,1.34,SOUR
+Beyond the Pale Brewing Co,Aromatherapy,IPA,CAN,6.5,1,473,4.5,,,,4.058,90,,100,4/8/2017,4/8/2017,1.34,PALE
+Boston Beer Company,Samuel Adams Summer Ale,Wheat Ale,USA,5,6,355,13.75,6,355,8.49,3.386,77,78,44,4/8/2017,4/8/2017,1.34,WHEAT
+Boston Beer Company,Samuel Adams Boston Lager,Vienna Lager,USA,4.8,6,355,14.45,6,355,7.99,3.43,86,90,95,4/8/2017,4/8/2017,1.34,AMBER
+Boston Beer Company,Fresh as Helles,Helles,USA,5.4,6,355,14.15,6,355,7.99,3.463,83,,93,4/8/2017,4/8/2017,1.34,LAGER
+Boston Beer Company,Octoberfest,Märzen,USA,5.5,6,355,14.4,6,355,7.99,3.61,83,80,92,4/8/2017,4/8/2017,1.34,AMBER
+Boston Beer Company,Samuel Adams Utopia*,Barley Wine,USA,28,1,709,112,1,709,199,4.477,98,,100,4/8/2017,4/8/2017,1.34,STRONG
 Boston Beer Company,Samuel Adams Rebel IPA,IPA,USA,6.5,6,355,14.15,6,355,7.99,,82,,,8/3/2016,8/3/2016,1.31,PALE
 Boulevard Brewing Co,The Calling,IIPA,USA,8.5,4,355,14.95,4,355,11.99,3.951,91,87,93,8/3/2016,8/3/2016,1.31,PALE
-Brouwerij Duvel Moortgat NV,Duvel,Belgian Pale Ale,BEL,8.5,4,330,13.50,4,330,13.49,3.811,95,100,98,4/9/2017,4/9/2017,1.34,PALE
-Brouwerij N.V. Lindemans,Cuvée René,Gueuze,BEL,5.5,1,355,7.00,1,355,7.49,3.782,91,100,44,4/9/2017,4/9/2017,1.34,AMBER
-Brouwerij Duvel Moortgat NV,Duvel Tripel Hop,Belgian Pale Ale,BEL,9.5,4,330,15.40,4,330,13.99,3.796,93,91,98,4/9/2017,4/9/2017,1.34,PALE
-Brouwerij N.V. Lindemans,Framboise,Lambic,BEL,3.0,1,750,10.40,1,750,10.99,3.78,88,81,49,4/9/2017,4/9/2017,1.34,AMBER
-Kiuchi,Hitachino Nest Saison Du Japon,Saison,JPN,5.1,1,330,4.30,,,,3.64,87,,56,4/9/2017,4/9/2017,1.34,FARMHOUSE
+Brooklyn Brewery,Brooklyn Lager,American Amber Lager,USA,5,1,473,3.1,1,473,1.99,3.506,86,80,99,4/8/2017,4/8/2017,1.34,AMBER
+Brouwerij Duvel Moortgat NV,Duvel,Belgian Pale Ale,BEL,8.5,4,330,13.5,4,330,13.49,3.811,95,100,98,4/9/2017,4/9/2017,1.34,PALE
+Brouwerij Duvel Moortgat NV,Duvel Tripel Hop,Belgian Pale Ale,BEL,9.5,4,330,15.4,4,330,13.99,3.796,93,91,98,4/9/2017,4/9/2017,1.34,PALE
+Brouwerij N.V. Lindemans,Cuvée René,Gueuze,BEL,5.5,1,355,7,1,355,7.49,3.782,91,100,44,4/9/2017,4/9/2017,1.34,AMBER
+Brouwerij N.V. Lindemans,Framboise,Lambic,BEL,3,1,750,10.4,1,750,10.99,3.78,88,81,49,4/9/2017,4/9/2017,1.34,AMBER
+Cascade Brewing Company,Blackcap Raspberry '16,American Sour/Wild,USA,5,1,750,23.3,1,750,29.99,4.142,91,,95,4/8/2017,4/8/2017,1.34,SOUR
+Collective Arts Brewing,Rhyme and Reason,APA,CAN,5.9,1,473,3.25,1,473,3.99,3.78,88,,99,4/8/2017,4/8/2017,1.34,PALE
+Collective Arts Brewing,Ransack The Universe,IPA,CAN,6.8,1,473,3.35,4,473,11.99,3.916,92,,98,4/8/2017,4/8/2017,1.34,PALE
+Collective Arts Brewing,Radio the Mothership,IIPA,CAN,8.5,1,473,4.95,,,,3.978,,,,4/8/2017,4/8/2017,1.34,PALE
+Founders Brewing,KBS,Imperial Stout,USA,11.9,1,355,7.25,4,355,22.99,4.526,100,,100,4/8/2017,4/8/2017,1.34,STOUT
+Great Lakes Brewing Co,Canuck,APA,CAN,5.2,1,473,2.65,,,,3.629,86,,92,4/8/2017,4/8/2017,1.34,PALE
+Great Lakes Brewing Co,Karma Citra,IPA,CAN,6.6,1,473,3.25,,,,4.041,93,,100,4/8/2017,4/8/2017,1.34,PALE
+Great Lakes Brewing Co,Octopus Wants To Fight,IPA,CAN,6.2,1,473,3.25,,,,3.982,90,,98,4/8/2017,4/8/2017,1.34,PALE
+Great Lakes Brewing Co,Robohop,IIPA,CAN,8.5,1,473,5,,,,4.121,88,,97,4/8/2017,4/8/2017,1.34,PALE
 Great Lakes Brewing Co,Dupump,Saison,CAN,5.2,1,650,5.95,,,,3.65,86,,70,4/9/2017,4/9/2017,1.34,FARMHOUSE
+Jolly Pumpkin Artisan Ales,Bam Biere,Saison,USA,5,1,750,8.95,1,750,12.99,3.699,88,,94,4/8/2017,4/8/2017,1.34,FARMHOUSE
+Kiuchi,Hitachino Nest Saison Du Japon,Saison,JPN,5.1,1,330,4.3,,,,3.64,87,,56,4/9/2017,4/9/2017,1.34,FARMHOUSE
+North Coast Brewing Co,Old Rasputin,RIS,USA,9,1,650,7,1,650,6.99,4.04,95,97,98,4/8/2017,4/8/2017,1.34,STOUT
+Ommegang,Game of Thrones Seven Kingdoms,Hoppy Belgian Wheat,USA,6.9,1,750,10.95,1,750,8.99,3.753,89,,100,4/8/2017,4/8/2017,1.34,WHEAT
+Ommegang,Three Philosophers,Belgian Quad,USA,9.7,1,750,10.8,1,750,11.99,3.97,92,91,95,4/8/2017,4/8/2017,1.34,STRONG
+Oskar Blues Brewery,G'Knight Imperial Red IPA,IRIPA,USA,8.7,4,355,12.05,6,355,11.99,3.898,92,90,97,4/8/2017,4/8/2017,1.34,STRONG
+Oskar Blues Brewery,Ten Fidy,Imperial Stout,USA,10.5,1,355,4.85,1,355,3.79,4.117,96,100,98,4/8/2017,4/8/2017,1.34,STOUT
+Oskar Blues Brewery,Dale's Pale Ale,Pale Ale,USA,6.5,4,355,9.05,6,355,8.49,3.672,88,81,99,4/8/2017,4/8/2017,1.34,PALE
+Radical Road Brewing Co,Sling Shot,California Common,CAN,5.1,1,473,2.85,,,,3.432,,,47,4/8/2017,4/8/2017,1.34,AMBER
+Rainhard Brewing,Kapow!,IPA,CAN,6.5,1,500,5.95,,,,3.904,86,,96,4/8/2017,4/8/2017,1.34,PALE
+Sawdust City Brewing Co,Lone Pine,IPA,CAN,6.2,1,473,3.25,,,,3.791,88,,95,4/8/2017,4/8/2017,1.34,PALE
+Sawdust City Brewing Co,Golden Beach,APA,CAN,4.5,1,473,3.1,,,,3.603,87,,84,4/8/2017,4/8/2017,1.34,PALE
+Sierra Nevada Brewing Co,Pale Ale,APA,USA,5.6,6,355,15.75,6,355,8.49,3.66,91,91,97,4/8/2017,4/8/2017,1.34,PALE
+Smuttynose Brewing Co,Finest Kind IPA,IPA,USA,6.9,1,473,3.25,6,355,9.99,3.646,91,100,93,4/8/2017,4/8/2017,1.34,PALE
+Smuttynose Brewing Co,Baltic Porter,Baltic Porter,USA,9,4,355,13.05,4,355,9.99,3.911,94,,99,4/8/2017,4/8/2017,1.34,PORTER
+Steam Whistle,Pilsner,Pilsner,CAN,5,6,355,14.25,,,,3.452,78,,50,4/8/2017,4/8/2017,1.34,LAGER
+Stone Brewing Co,Arrogant Bastard Ale,American Strong,USA,7.2,1,473,4.25,6,473,11.99,3.8,93,97,98,4/8/2017,4/8/2017,1.34,STRONG
+Stone Brewing Co,Russian Imperial Stout,RIS,USA,10.8,1,650,11,1,650,7.99,3.996,96,93,99,4/8/2017,4/8/2017,1.34,STOUT
+Evil Twin,Nomader Weisse,Berlinerweisse,USA,5.2,1,355,4.4,4,355,18.99,3.755,86,,68,7/15/017,7/15/017,1.26,
+Evil Twin,Don No,Berlinerweisse,USA,4,1,650,12.4,1,640,9.99,3.789,84,,83,7/15/017,7/15/017,1.26,
+Jolly Pumpkin Artisan Ales,Oro de Calabaza,Golden Strong Ale,USA,8,1,750,11.95,1,750,13.99,3.828,92,,98,7/15/017,7/15/017,1.26,
+Boulevard Brewing Co,Saison Brett,Saison,USA,8.5,1,750,18.85,1,750,14.49,3.9,95,100,99,7/15/017,7/15/017,1.26,
+Stone Brewing Co,Enjoy After 7.4.16 Brett IPA,Brett IPA,USA,7.8,1,750,18.95,1,750,13.99,3.738,87,,95,7/15/017,7/15/017,1.26,
+Stone Brewing Co,Double Bastard,IIPA,USA,11,1,650,11,1,650,7.99,3.931,95,100,99,7/15/017,7/15/017,1.26,
+Stone Brewing Co,Xocoveza Stout,Stout,USA,8.1,1,355,4.2,,,,4.157,88,,92,7/15/017,7/15/017,1.26,
+Cascade Brewing Company,Elderberry 2015,American Sour/Wild,USA,5,1,750,23.3,1,750,21.99,4.054,90,,88,7/15/017,7/15/017,1.26,
+Evil Twin,Imperial Doughnut Break,imperial Porter,USA,10,1,650,17,1,650,19.99,4.087,94,,98,7/15/017,7/15/017,1.26,
+Cascade Brewing Company,The Vine,American Sour/Wild,USA,5,1,750,23.1,1,750,31.99,4.062,92,,94,7/15/017,7/15/017,1.26,
+Anchor Brewing Co,California Lager,Lager,USA,4.9,6,355,14.95,6,355,8.99,3.397,85,90,100,7/15/017,7/15/017,1.26,
+Boston Beer Company,Sam Adams Winter Lager,Lager,USA,5.5,6,355,14.4,6,355,8.49,3.43,82,84,68,7/15/017,7/15/017,1.26,
+Omnipollo,Zodiak (ON),IPA,CAN,6.2,1,473,3.6,,,,,,,,7/15/017,7/15/017,1.26,
